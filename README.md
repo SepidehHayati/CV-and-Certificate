@@ -14,7 +14,7 @@ This repository contains my updated resume and a collection of my professional d
 #### Python Essential Training
 - Certificate - May 2024 (LinkedIn Learning)- 4.5 total hours
 
-#### Python Essential Training
+#### Power BI for Data Science
 - Certificate - March 2025 (Udemy)- 4.5 total hours
  
 
