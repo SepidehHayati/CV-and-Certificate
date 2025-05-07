@@ -17,5 +17,7 @@ This repository contains my updated resume and a collection of my professional d
 #### Power BI for Data Science
 - Certificate - March 2025 (Udemy)- 4.5 total hours
  
-
+#### MYSQL for Data Science, Data Engineering, Business Analysis
+- Certificate - April 2025 (Udemy)- 12 total hours
+- 
 Feel free to explore and review the certificates for further details.
